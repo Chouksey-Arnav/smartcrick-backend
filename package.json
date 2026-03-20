@@ -1,0 +1,12 @@
+{
+  "name": "smartcrick-backend",
+  "version": "1.0.0",
+  "description": "SmartCrick AI backend — OTP email via Brevo",
+  "private": true,
+  "engines": {
+    "node": ">=18"
+  },
+  "scripts": {
+    "dev": "vercel dev"
+  }
+}
